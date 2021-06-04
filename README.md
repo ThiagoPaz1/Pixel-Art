@@ -19,7 +19,7 @@
   </li>
   <li>HTML5 
     <span>
-      <img width="50px" src="https://raw.githubusercontent.com/devicoTecnologias utilizadasns/devicon/master/icons/html5/html5-original.svg">
+      <img width="20px" src="https://raw.githubusercontent.com/devicoTecnologias utilizadasns/devicon/master/icons/html5/html5-original.svg">
     </span>
   </li>
 </ul>
